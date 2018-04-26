@@ -1,7 +1,5 @@
 Nome artefato: Requisitos.txt
-? Nome do(a) autor(a): Rafael Campos de Souza Reis      
-? Data de criação: 24/04/2018
-? Hora de criação: 19:31:07    
-
-artefato  criado para testes
-
+Nome do(a) autor(a): Rafael Campos de Souza Reis
+Data de criação: 24/04/2018
+Hora de criação: 19:41:16
+artefato criado para testes
