@@ -3,5 +3,5 @@ Nome artefato: Requisitos.txt
 ? Data de criação: 24/04/2018
 ? Hora de criação: 19:31:07    
 
-
+artefato  criado para testes
 
